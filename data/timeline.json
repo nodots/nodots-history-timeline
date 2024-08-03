@@ -1,0 +1,392 @@
+[
+    {
+        "guid": "23226e52-7d98-4599-8384-2abf14d3fd44",
+        "year": -300,
+        "event": "The Lex Ogulnia was passed"
+    },
+    {
+        "guid": "71bb2f74-d3e1-48e7-b527-0a55358c6e48",
+        "year": -298,
+        "event": "Samnite Wars: Rome declared war on the Samnites after an appeal by the Lucani."
+    },
+    {
+        "guid": "f11ab7ce-702b-45a8-9dcf-a591a507c361",
+        "year": -297,
+        "event": "Battle of Tifernum: A Roman army defeated a numerically superior Samnite force at Citt\u00e0 di Castello."
+    },
+    {
+        "guid": "132e0437-03a0-45dc-a162-03851a0ce549",
+        "year": -295,
+        "event": "Battle of Sentinum: A Roman army decisively defeated a numerically superior force of Samnites"
+    },
+    {
+        "guid": "5f5f7854-a020-4c17-94a6-118c035aba93",
+        "year": -294,
+        "event": "Samnite Wars: Roman and Samnite forces battled at Lucera."
+    },
+    {
+        "guid": "38550fd9-c458-4abe-a620-5f349cb0d77d",
+        "year": -293,
+        "event": "Battle of Aquilonia: A Roman army destroyed the majority of Samnite forces"
+    },
+    {
+        "guid": "e73ba53a-2a3c-44e9-9dc6-7f3293c32615",
+        "year": -291,
+        "event": "Samnite Wars: Rome conquered and colonized the Samnite city of Venosa."
+    },
+    {
+        "guid": "8fa1d84f-b68a-4e61-bd00-0b83d7b84094",
+        "year": -290,
+        "event": "Samnite Wars: The last effective Samnite resistance was eliminated."
+    },
+    {
+        "guid": "caba889e-2364-4754-9a59-ce9447f69aea",
+        "year": -287,
+        "event": "Conflict of the Orders: A secessio plebis took place."
+    },
+    {
+        "guid": "8a4112cc-05d3-4706-a527-c8e52255dfb1",
+        "year": -283,
+        "event": "Battle of Lake Vadimo (283 BC): A Roman army defeated a combined force of Etruscans"
+    },
+    {
+        "guid": "f9057740-d73b-4abe-af7f-881e4684d2e8",
+        "year": -281,
+        "event": "Taranto appealed to Epirus for aid against Rome."
+    },
+    {
+        "guid": "b9b9a498-79d5-4a6d-8110-eec9ffbf4bf9",
+        "year": -280,
+        "event": "Pyrrhic War: An Epirote army of some 25"
+    },
+    {
+        "guid": "e9ea4ce7-0be0-4e4a-b8cc-ded3bdd5c2e6",
+        "year": -279,
+        "event": "Battle of Asculum: A Greek force led by the Epirote king Pyrrhus defeated a Roman army at modern Ascoli Satriano"
+    },
+    {
+        "guid": "3544430d-0f1e-4202-8ebd-db51865715a6",
+        "year": -275,
+        "event": "Battle of Beneventum (275 BC): Roman and Epirote armies met in a bloody battle at Benevento."
+    },
+    {
+        "guid": "5c9c94ef-02f4-453f-8e87-a08130ec5311",
+        "year": -272,
+        "event": "Pyrrhic War: Pyrrhus withdrew with his army to Epirus."
+    },
+    {
+        "guid": "08000d53-b316-49a6-9386-ce9d7bb4a443",
+        "year": -267,
+        "event": "The number of quaestors was raised from four to ten."
+    },
+    {
+        "guid": "862a82e4-601e-4708-a6f6-78ab05b6faf0",
+        "year": -264,
+        "event": "Battle of Messana: A Roman force defeated a Carthaginian and Siracusani garrison at Messina."
+    },
+    {
+        "guid": "35afb528-d1d7-4239-af17-82a1f8b3cc15",
+        "year": -242,
+        "event": "The office of the praetor qui inter peregrinos ius dicit"
+    },
+    {
+        "guid": "b19757c9-2e8d-4f3a-9182-f65872494db7",
+        "year": -241,
+        "event": "First Punic War: Sicily was organized as the province of Sicilia."
+    },
+    {
+        "guid": "a479cdf1-ec92-4a13-b249-0a97089ec0e4",
+        "year": -238,
+        "event": "Mercenary War: Carthage surrendered its claims on Sardinia and Corsica to Rome."
+    },
+    {
+        "guid": "a6b61af1-0b58-437d-8494-b36cb6c6dd4e",
+        "year": -229,
+        "event": "Illyrian Wars: Rome invaded the territory of the Ardiaei."
+    },
+    {
+        "guid": "2e53f9d7-1ed2-4267-8727-5773f920494a",
+        "year": -228,
+        "event": "Illyrian Wars: The Ardiaei surrendered some territory"
+    },
+    {
+        "guid": "3ea66464-0ce7-442a-a5ea-433ccb674eca",
+        "year": -225,
+        "event": "Battle of Telamon: A Roman army decisively defeated a Gallic invasion near modern Talamone. The consul Gaius Atilius Regulus was killed."
+    },
+    {
+        "guid": "0736e0e7-bcab-47eb-b6dd-c0ef4a1b981c",
+        "year": -219,
+        "event": "Illyrian Wars: Rome invaded Hvar."
+    },
+    {
+        "guid": "ab418052-bfc6-40e6-867f-7614cb38a080",
+        "year": -218,
+        "event": "Second Punic War: A Carthaginian army departed Cartagena."
+    },
+    {
+        "guid": "669dcf07-1cd7-4afc-86b8-936acffa91ba",
+        "year": -216,
+        "event": "Battle of Cannae: The Carthaginian general Hannibal decisively defeated a numerically superior Roman force at Cannae."
+    },
+    {
+        "guid": "da6a1ec2-f659-4c38-ac9b-db9c94bb09c5",
+        "year": -214,
+        "event": "First Macedonian War: A Macedonian fleet captured Oricum."
+    },
+    {
+        "guid": "18486bdd-bd94-4a2f-ba5a-7f4e66494f66",
+        "year": -212,
+        "event": "Siege of Syracuse (214\u2013212 BC): Roman forces breached the inner citadel of Syracuse and slaughtered its inhabitants."
+    },
+    {
+        "guid": "2faf0164-27b5-4d9d-ac68-1e2af8978a12",
+        "year": -205,
+        "event": "First Macedonian War: Rome and Macedonia signed the Treaty of Phoenice"
+    },
+    {
+        "guid": "355a5ce5-3df2-4387-8d3a-536f43939d9b",
+        "year": -204,
+        "event": "Second Punic War: The consul Scipio Africanus landed an invasion fleet at Utica."
+    },
+    {
+        "guid": "a93873c4-3564-4fb5-8aa0-2e1335346d83",
+        "year": -202,
+        "event": "Battle of Zama: A Roman army decisively defeated Carthage"
+    },
+    {
+        "guid": "9971ee60-c545-4df7-9ac1-17451902a8f6",
+        "year": -201,
+        "event": "Second Punic War: Carthage accepted Roman conditions for peace"
+    },
+    {
+        "guid": "7de7fbdd-494c-4c46-a35c-4f2471a0ebb1",
+        "year": -100,
+        "event": "Julius Caesar was born"
+    },
+    {
+        "guid": "43054ed3-30f2-43d2-a1dd-f50839933bb4",
+        "year": -100,
+        "event": "Marius was elected consul."
+    },
+    {
+        "guid": "7a8f0877-4e66-47b7-a3ba-98b8a02092aa",
+        "year": -91,
+        "event": "Social War (91\u201387 BC): The Roman clients in Italy the Marsi"
+    },
+    {
+        "guid": "dae1601b-da3b-445a-9485-770f596fd386",
+        "year": -88,
+        "event": "Sulla's march on Rome: The consul Sulla led an army of his partisans across the pomerium into Rome."
+    },
+    {
+        "guid": "be8a3b26-5fbb-449c-bb05-2123aa69c570",
+        "year": -87,
+        "event": "First Mithridatic War: Roman forces landed at Epirus."
+    },
+    {
+        "guid": "e0398895-e0e3-4b7e-b49e-f2e21e6f9917",
+        "year": -85,
+        "event": "First Mithridatic War: A peace was agreed between Rome and Pontus under which the latter returned to its pre-war borders."
+    },
+    {
+        "guid": "ffea5d05-df6f-4bd3-9c20-fa1b2f1ee582",
+        "year": -83,
+        "event": "Sulla's civil war: Sulla landed with an army at Brindisi."
+    },
+    {
+        "guid": "a733471e-b4fc-41ad-a182-955591937a25",
+        "year": -82,
+        "event": "Sulla's civil war: Sulla was declared dictator."
+    },
+    {
+        "guid": "5488915b-5de8-4c8b-9d8f-82aaeed54110",
+        "year": -81,
+        "event": "Second Mithridatic War: Murena withdrew from Pontus."
+    },
+    {
+        "guid": "7cd45555-3013-4510-bfe4-561ceb51deeb",
+        "year": -80,
+        "event": "Final consulship of Sulla"
+    },
+    {
+        "guid": "78a03422-ea61-4dfd-b1c6-fcd5f978d2f7",
+        "year": -73,
+        "event": "Third Mithridatic War: Pontus invaded Bithynia."
+    },
+    {
+        "guid": "4a14a28b-ae7c-4e75-a7da-0287a2a82748",
+        "year": -72,
+        "event": "Sertorian War: Marcus Perpenna Vento"
+    },
+    {
+        "guid": "eaf96746-3e26-4d37-9f32-a7833055d729",
+        "year": -71,
+        "event": "Third Servile War: The slaves in rebellion were decisively defeated by Roman forces near Petelia. Their leader Spartacus was killed."
+    },
+    {
+        "guid": "fe92b86f-3697-48fc-a8b8-3761d9dcdcc7",
+        "year": -66,
+        "event": "The last of the Cilician pirates were wiped out by Pompey."
+    },
+    {
+        "guid": "ee05feca-5158-4e9f-8b08-5ca866b4b6d1",
+        "year": -63,
+        "event": "Third Mithridatic War: Defeated"
+    },
+    {
+        "guid": "09d1a834-d887-42b6-8bcb-a2e15ccfb825",
+        "year": -60,
+        "event": "Pompey joined a political alliance"
+    },
+    {
+        "guid": "a77e1ebd-6791-4991-ab8a-2e14c2498f91",
+        "year": -59,
+        "event": "Consulship of Julius Caesar."
+    },
+    {
+        "guid": "004d9431-ef1f-420a-9c85-93b1eadb3cf6",
+        "year": -58,
+        "event": "Gallic Wars: Roman forces barred the westward migration of the Helvetii across the Rh\u00f4ne."
+    },
+    {
+        "guid": "c4e0c890-f7c8-466a-936a-485eca214915",
+        "year": -55,
+        "event": "1st Invasion of Britain: Julius Caesar's first invasion of Britain."
+    },
+    {
+        "guid": "5a7c47e8-816c-4443-854a-2b0e059e6d70",
+        "year": -54,
+        "event": "2nd Invasion of Britain: Julius Caesar's second invasion of Britain."
+    },
+    {
+        "guid": "5a0ea533-38f8-44f5-925b-6de84bad5e5f",
+        "year": -53,
+        "event": "Battle of Carrhae: A Parthian army decisively defeated a numerically superior Roman invasion force near Harran. Crassus was killed."
+    },
+    {
+        "guid": "e7f29094-94a5-4bda-a931-08bf638bf7bf",
+        "year": -50,
+        "event": "Gallic Wars: The last Gaulish rebels were defeated."
+    },
+    {
+        "guid": "8736ef9a-cca7-4a35-8344-babddcf3a5bc",
+        "year": -49,
+        "event": "Caesar's Civil War: Julius Caesar illegally crossed the Rubicon into Italy with his army."
+    },
+    {
+        "guid": "31c14a09-2b5f-4b87-8564-8a9c9b88397d",
+        "year": -48,
+        "event": "Caesar's Civil War: Caesar landed at Durr\u00ebs in pursuit of Pompey and his partisans the optimates."
+    },
+    {
+        "guid": "7f6ec3be-274b-4da7-af0b-e730257b15a5",
+        "year": -46,
+        "event": "Caesar left Africa for Iberia in pursuit of Pompey's sons Gnaeus Pompeius and Sextus Pompey."
+    },
+    {
+        "guid": "08206ffd-e575-4f07-91fd-b84f6fe27bdf",
+        "year": -44,
+        "event": "Assassination of Julius Caesar: Caesar was assassinated in the Theatre of Pompey by a conspiracy of senators."
+    },
+    {
+        "guid": "885d5f21-0ee7-4a94-b1cf-72f7a2f3ccc1",
+        "year": -43,
+        "event": "The Lex Titia was passed"
+    },
+    {
+        "guid": "2aa55479-56e4-4de3-85ff-f5fae9311aeb",
+        "year": -42,
+        "event": "Liberators' civil war: Augustus and Antony led some thirty legions to northern Greece in pursuit of Caesar's assassins Marcus Junius Brutus the Younger and Gaius Cassius Longinus."
+    },
+    {
+        "guid": "746eee62-9bfb-4198-a4cb-623496e04574",
+        "year": -39,
+        "event": "Augustus marries Livia Drusilla"
+    },
+    {
+        "guid": "9ddfceea-392e-42e8-ad3d-898f757e60ff",
+        "year": -33,
+        "event": "Antony's Parthian War: A campaign led by Antony against the Parthian Empire ended in failure."
+    },
+    {
+        "guid": "160e1b1d-a5f3-4b7c-be7c-a1ac37d37861",
+        "year": -31,
+        "event": "Battle of Actium: Forces loyal to Augustus defeated Antony and his lover Cleopatra"
+    },
+    {
+        "guid": "1a21fc98-4baf-46fa-b0f0-0aa1e43ee3d9",
+        "year": -30,
+        "event": "Final War of the Roman Republic: Antony's forces defected to Augustus. He committed suicide."
+    },
+    {
+        "guid": "c3e712c8-49f5-410a-a1f9-3be6fe26d8c4",
+        "year": -29,
+        "event": "Moesia was annexed to Rome."
+    },
+    {
+        "guid": "90bfe040-3416-419c-a602-cbff13a75def",
+        "year": -27,
+        "event": "The Senate granted Augustus the titles augustus"
+    },
+    {
+        "guid": "ac42e3ce-f28a-4871-9b4c-f2c35ca069ca",
+        "year": -25,
+        "event": "Augustus indicated his nephew Marcus Claudius Marcellus (Julio-Claudian dynasty) as his chosen successor by marrying him to his only daughter Julia the Elder."
+    },
+    {
+        "guid": "1f2897b1-787a-4e85-92ce-5d23d14eeef6",
+        "year": -24,
+        "event": "Augustus' campaigns against the Cantabrians in Hispania Tarraconensis"
+    },
+    {
+        "guid": "4f9fdf7b-9c34-4e98-ac95-9e84af924eb1",
+        "year": -23,
+        "event": "Coinage reform of Augustus: Augustus centralized the minting of and reformed the composition and value of the Roman currency."
+    },
+    {
+        "guid": "62f3f38b-833b-4747-8b4a-7f808c03969a",
+        "year": -21,
+        "event": "Augustus married Julia to his general Marcus Vipsanius Agrippa."
+    },
+    {
+        "guid": "3e11acb9-8e6d-4375-b755-ba2470185fb1",
+        "year": -19,
+        "event": "Cantabrian Wars: The last major combat operations ended. The Cantabri and Astures were pacified."
+    },
+    {
+        "guid": "0e16ddce-0896-496d-94d7-69a900d42391",
+        "year": -17,
+        "event": "Augustus adopted the sons of Agrippa and Julia"
+    },
+    {
+        "guid": "fd630a41-fa4c-40bd-8854-b0412b7abc17",
+        "year": -16,
+        "event": "Raetia and Noricum were conquered and annexed to Rome."
+    },
+    {
+        "guid": "d1a041b0-fcd8-4a58-8310-dbec052ea326",
+        "year": -12,
+        "event": "Germanic Wars: Roman forces crossed the Rhine into Germania."
+    },
+    {
+        "guid": "cca5363a-0591-417a-9a1b-0ead6bc70c51",
+        "year": -11,
+        "event": "Augustus married Julia to his general and stepson Tiberius."
+    },
+    {
+        "guid": "b3b3a8f1-71b6-4708-b232-621842b4668b",
+        "year": -9,
+        "event": "The Roman general Nero Claudius Drusus died from injuries sustained falling from a horse."
+    },
+    {
+        "guid": "328bcd8a-b2a1-468e-a19d-99fa723e4a37",
+        "year": -6,
+        "event": "Augustus offered Tiberius tribunician power and imperium over the eastern half of the Empire. Tiberius refused"
+    },
+    {
+        "guid": "6b79c7d6-d277-4db4-a0b0-dce05ed8090f",
+        "year": -2,
+        "event": "Augustus was acclaimed Pater Patriae"
+    }
+]
