@@ -32,6 +32,12 @@ export function RtBody({ rtEvent }: Props) {
       </div>
       <div id="RtEntryContent">
         <h2>{rtEvent.event}</h2>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum
+          maiores neque suscipit consequatur, autem ut soluta, alias quod fuga
+          facere aperiam est! Est aliquam consectetur corrupti aliquid ipsa
+          nostrum sequi!
+        </p>
       </div>
     </Paper>
   )

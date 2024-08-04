@@ -37,7 +37,7 @@
         text-decoration: none;
       }
       img.rt-entry-sidebar-map {
-        max-width: 240px;
+        max-width: 300px;
       }
       ul.rt-entry-sidebar-themes {
         list-style-type: none;
@@ -60,6 +60,10 @@
     #RtEntryContent {
       padding: 1rem;
       width: 75%;
+      p {
+        font-size: 0.8rem;
+        color: rgba(0, 0, 0, 0.6);
+      }
     }
   }
   #RtBottomNavigation {
