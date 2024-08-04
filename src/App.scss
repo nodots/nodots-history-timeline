@@ -1,5 +1,44 @@
 #root {
-  margin: 0;
-  padding: 0;
-  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#RtTimeline {
+  margin: auto auto;
+  display: 'flex';
+  flex-direction: 'column';
+  border: none !important;
+  box-shadow: none !important;
+
+  #RtBody {
+    height: 90vh;
+    border: none !important;
+    box-shadow: none !important;
+    display: flex;
+    flex-direction: row;
+    #RtEntrySidebar {
+      padding: 1rem;
+      width: 20%;
+    }
+    #RtEntryContent {
+      padding: 1rem;
+      width: 80%;
+    }
+  }
+  #RtBottomNavigation {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: #f5f5f5;
+    .rt-bottom-navigation-button {
+      margin: auto auto;
+      fill: red;
+    }
+    .rt-bottom-navigation-text {
+      margin: auto auto;
+      width: 80vw;
+      text-align: center;
+    }
+  }
 }

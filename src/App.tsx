@@ -5,7 +5,7 @@ import { RtTimeline } from './components/RtTimeline'
 import { RtEvent } from './types'
 
 function App() {
-  const [activeEvent, setActiveEvent] = useState(timeline[0])
+  const [activeEvent, setActiveEvent] = useState(timeline[54])
 
   const eventIndex = (activeEvent: RtEvent) =>
     timeline.findIndex((e) => e.guid === activeEvent.guid)
@@ -33,17 +33,15 @@ function App() {
   }
 
   return (
-    <>
-      <RtTimeline
-        timeline={timeline}
-        activeEvent={activeEvent}
-        nextEvent={nextEvent(activeEvent)}
-        previousEvent={previousEvent(activeEvent)}
-        setActiveEvent={setActiveEvent}
-        handleNextClick={setNextEvent}
-        handlePreviousClick={setPreviousEvent}
-      />
-    </>
+    <RtTimeline
+      timeline={timeline}
+      activeEvent={activeEvent}
+      nextEvent={nextEvent(activeEvent)}
+      previousEvent={previousEvent(activeEvent)}
+      setActiveEvent={setActiveEvent}
+      handleNextClick={setNextEvent}
+      handlePreviousClick={setPreviousEvent}
+    />
   )
 }
 

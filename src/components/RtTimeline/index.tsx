@@ -1,7 +1,7 @@
 import { Paper } from '@mui/material'
 import { RtEvent } from '../../types'
-import { RtCard } from '../RtCard'
 import { RtNavigation } from '../RtNavigation'
+import { RtBody } from '../RtBody'
 
 export interface Props {
   timeline: RtEvent[]
@@ -16,30 +16,16 @@ export interface Props {
 export function RtTimeline({
   timeline,
   activeEvent,
-  nextEvent,
-  previousEvent,
   setActiveEvent,
   handlePreviousClick,
   handleNextClick,
 }: Props) {
   return (
-    <Paper
-      sx={{
-        display: 'flex',
-        flexDirection: 'column',
-        alignContent: 'center',
-        justifyContent: 'center',
-        alignItems: 'center',
-        border: 'none',
-        boxShadow: 'none',
-      }}
-    >
-      <RtCard rtEvent={activeEvent} />
+    <Paper id="RtTimeline">
+      <RtBody rtEvent={activeEvent} />
       <RtNavigation
         timeline={timeline}
         activeEvent={activeEvent}
-        nextEvent={nextEvent}
-        previousEvent={previousEvent}
         onRowClick={setActiveEvent}
         onPreviousClick={handlePreviousClick}
         onNextClick={handleNextClick}

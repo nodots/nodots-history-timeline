@@ -11,15 +11,13 @@ interface Props {
   onClick: (e: React.MouseEvent) => void
 }
 
-export function RtNavigationButton({
-  direction,
-  ariaLabel,
-  // nextEvent,
-  // previousEvent,
-  onClick,
-}: Props) {
+export function RtNavigationButton({ direction, ariaLabel, onClick }: Props) {
   return (
-    <IconButton aria-label={ariaLabel} onClick={onClick}>
+    <IconButton
+      aria-label={ariaLabel}
+      onClick={onClick}
+      className="rt-navigation-button"
+    >
       {direction === 'next' ? <ArrowForward /> : <ArrowBack />}
     </IconButton>
   )
