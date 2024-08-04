@@ -10,6 +10,11 @@ export function RtBody({ rtEvent }: Props) {
     <Paper id="RtBody">
       <div id="RtEntrySidebar">
         <h1>{formatYear(rtEvent.year)}</h1>
+        <img
+          src="./49---45-bce.png"
+          alt="Caesar"
+          className="rt-entry-sidebar-map"
+        />
         <div className="rt-entry-sidebar-references">
           <h3>Themes</h3>
           <ul className="rt-entry-sidebar-themes">
