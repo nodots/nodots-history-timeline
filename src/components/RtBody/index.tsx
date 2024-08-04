@@ -11,10 +11,18 @@ export function RtBody({ rtEvent }: Props) {
       <div id="RtEntrySidebar">
         <h1>{formatYear(rtEvent.year)}</h1>
         <div className="rt-entry-sidebar-references">
+          <h3>Themes</h3>
+          <ul className="rt-entry-sidebar-themes">
+            <li>Caesar&rsquo;s Civil War</li>
+          </ul>
           <h3>Sources</h3>
-          <a href="https://www.livius.org/sources/content/appian/appian-caesars-funeral/">
-            Apian on Caesar's Funeral
-          </a>
+          <ul className="rt-entry-sidebar-themes">
+            <li>
+              <a href="https://www.livius.org/sources/content/appian/appian-caesars-funeral/">
+                Apian on Caesar's Funeral
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
       <div id="RtEntryContent">
