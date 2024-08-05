@@ -38,6 +38,16 @@ export function RtBody({ rtEvent }: Props) {
           facere aperiam est! Est aliquam consectetur corrupti aliquid ipsa
           nostrum sequi!
         </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus
+          corporis, est omnis facilis quidem nemo cum consectetur voluptatibus
+          fugit rem excepturi recusandae quo repudiandae dolorem doloremque?
+          Nobis eligendi maiores pariatur. Sit amet consectetur adipisicing
+          elit. Delectus corporis, est omnis facilis quidem nemo cum consectetur
+        </p>
+        <p>
+          Aperiam est! Est aliquam consectetur corrupti aliquid ipsa nostrum
+        </p>
       </div>
     </Paper>
   )
